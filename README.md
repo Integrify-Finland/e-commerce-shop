@@ -130,4 +130,5 @@ Material UI components are utilized alongside custom CSS styling to design and r
 - **TypeScript:** This statically-typed superset of JavaScript adds a layer of static analysis to the code, catching potential errors during development. TypeScript improves code quality, enhances developer productivity, and provides better documentation through type annotations.
 
 - **Redux Toolkit:** A comprehensive set of utilities for managing the state of a React application. Redux Toolkit simplifies the process of handling complex state logic, offering a predictable state container. This ensures a centralized and organized approach to managing application data, leading to more maintainable code.
-
+## Deployment
+"https://aliattar1362.github.io/e-commerce-shop/"
